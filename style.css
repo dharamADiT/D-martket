@@ -1,0 +1,144 @@
+*{
+    font-size: 20px;
+margin: 0;
+padding: 0;
+}
+/* .header{
+
+width: 100%;
+
+background-position: cover;
+
+background-size: cover;
+position: relative;
+
+}  */
+ ul{
+background-color:#2c3f46;
+padding: 0px;
+overflow: hidden;
+list-style-type: none;
+margin: 0px;
+height: 46px;
+transition: 0.5s;
+background-attachment: fixed;
+
+}
+li a{
+display: block;
+color: white;
+/* text-align: center; */
+padding: 14px 18px;
+text-decoration: none;
+
+}
+li{
+float: left;
+
+}
+ /* img{
+t
+width: 50px;
+heigh: 24px;
+} */
+
+li :hover{
+background-size: cover;
+background-color: grey;
+color:aqua;
+transition: 1s;
+transform: scale(1.1);
+background-position: cover;
+}
+/* there is starting my website body and */
+.div1{
+    background-image: url(images/back01.jpg);
+background-repeat: repeat-x;
+width: 100%;
+height: 100%;
+/* background-image:linear-gradient[rgba(4,9,30,0.7),rgba(4,9,30,0.7)]url(images/back01.jpg); */
+}
+.div2{
+margin-left: 20%;
+margin-right: 15%;
+
+}
+.div3{
+
+margin-left: 15%;
+margin-right: 15%;
+background-color: #eeeeee;
+height: 100%;
+}
+.twoin1{
+width: 100%;
+height: 370px;
+
+}
+.pics{
+margin-top: 30px;
+margin-bottom: 10px;
+/* border: 0px solid #eeeeee; */
+width: 20%;
+height: 300px;
+}
+.details{
+font-size: large;
+align: right;
+
+width: 65%;
+height: 300px;
+padding-top: 115px;
+margin-left: 350px;
+margin-top: 30px;
+
+
+
+}
+.massage{
+
+
+}
+h2{
+color: black;
+text-transform: uppercase;
+}
+.footer{
+background-color: #2c3f46;
+height: 400px;
+color:#eeeeee;
+width: 100%;
+
+}
+
+.a, .d{
+padding-top: 40px;
+padding-left: 25px;
+width: 22.6%;
+float: left;
+height: 300px;
+overflow: hidden;
+font-size: 15px;
+color: lightblue;
+}
+.small{
+width: 24%;
+height: 10%;
+font-family:Arial, Helvetica, sans-serif;
+padding-top: 40px;
+padding-left: 100px;
+display: block;
+float: right;
+font-size: 10px;
+}
+.attribute{
+text-decoration: overline ;
+
+
+}
+
+
+       
+
+
+
